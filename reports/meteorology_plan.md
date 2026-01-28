@@ -27,6 +27,6 @@ The following USAF–WBAN station pairs are used:
 
 - DCA (Washington Reagan National): 724050–13743
 - BWI (Baltimore/Washington Intl): 724060–93721
-- IAD (Washington Dulles Intl): 724030–13743
+- IAD (Washington Dulles Intl): 724030–93738
 
 Data source: NOAA ISD-Lite daily summaries.

@@ -39,3 +39,5 @@ using public ground-based air quality measurements and surface meteorology.
 - `figures/`: saved plots and figures
 - `reports/`: short summaries and notes
 
+All data used in this project are publicly available from the U.S. EPA and NOAA;
+see `reports/data_sources.md` for full attribution and provenance details.
